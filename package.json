@@ -1,0 +1,27 @@
+{
+  "name": "cypress1000",
+  "version": "1.0.0",
+  "description": "Unit testing with cypress library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xceldeveloper/cypress1000.git"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "unit"
+  ],
+  "author": "xceldeveloper <xceldeveloper@gmail.com> (xceldeveloper.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xceldeveloper/cypress1000/issues"
+  },
+  "homepage": "https://github.com/Xceldeveloper/cypress1000#readme",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  }
+}
